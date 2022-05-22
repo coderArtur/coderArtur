@@ -1,6 +1,6 @@
 [![MasterHead](https://www.thehappyturtlestraw.com/wp-content/uploads/2021/08/turtle-animation-happy-turtle-straw-big_v2-1.gif)](https://github.com/coderArtur)
 <h1 align="center">😎What's up? I'm Artur L.</h1>
-<h3 align="center">Sempre fui fascinado por tecnologia e por conta disso decidi me tornar um programador. Estudo Front-End e estou me dedicando para entregar ótimos projetos. Sou muito curioso, também tenho facilidade e gosto de aprender coisas novas!</h3>
+<h3 align="center">I've always been fascinated by technology and because of that I decided to become a programmer. I study Front-End and I'm dedicating myself to deliver great projects. I'm very curious, I also have it easy and I like to learn new things!</h3>
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=coderartur&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
@@ -27,12 +27,12 @@
   <a href="https://github.com/coderArtur" target="blank"><img alt="git" width="40" height="36" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
 </p>
 
-<h3 align="left">Status:</h3>
+<h3 align="left">GitHub Status:</h3>
 <div align="auto">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=coderartur&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="coderartur" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=coderartur&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="coderartur" />
 
-  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=coderartur&theme=dark&show_icons=true" alt="coderartur" />
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=coderartur&theme=dark&show_icons=true" alt="coderartur" />
 
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderartur&theme=dark&show_icons=true&locale=en&layout=compact" alt="coderartur" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderartur&theme=dark&show_icons=true&locale=en&layout=compact" alt="coderartur" />
 
 </div>
