@@ -28,7 +28,7 @@
   <a href="https://github.com/coderArtur" target="blank"><img alt="git" width="40" height="36" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
 </p>
 
-<h3 align="left">GitHub Status:</h3>
+<h3 align="left">GitHub Stats:</h3>
 <div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=coderartur&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="coderartur" />
 
