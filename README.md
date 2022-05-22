@@ -1,16 +1,38 @@
-### Hi there 👋
+[![MasterHead](https://www.thehappyturtlestraw.com/wp-content/uploads/2021/08/turtle-animation-happy-turtle-straw-big_v2-1.gif)](https://github.com/coderArtur)
+<h1 align="center">😎What's up? I'm Artur L.</h1>
+<h3 align="center">Sempre fui fascinado por tecnologia e por conta disso decidi me tornar um programador. Estudo Front-End e estou me dedicando para entregar ótimos projetos. Sou muito curioso, também tenho facilidade e gosto de aprender coisas novas!</h3>
 
-<!--
-**coderArtur/coderArtur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=coderartur&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+</div>
+<h5 align="right"><strong><em>With great power&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>comes great responsibility.</em></strong></h5>
 
-Here are some ideas to get you started:
+<ul>
+  <li>🚀 Now I’m learning <strong>JavaScript</strong></li>
+  <li>😜 Hobbies: <strong>Watch series and documentary</strong></li>
+  <li>📫 How to reach me: <strong><a href="mailto:coderartur@gmail.com" target="_blank">coderartur@gmail.com</a></strong></li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/artur-lago-57451b213" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="artur-lago-57451b213" height="30" width="40" /></a>
+<a href="https://instagram.com/artur_mdl" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Insta.svg" alt="artur_mdl" height="30" width="40" /></a>
+<a href="mailto:coderartur@gmail.com" target="blank"><img align="center" src="http://vivalinkrj.com.br/assets/vendor/flag-icon-css/flags/4x3/mail.svg" alt="artur_mdl" height="33" width="40" /></a>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://github.com/coderArtur" target="blank"><img alt="html5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></a>
+  <a href="https://github.com/coderArtur" target="blank"><img alt="css3" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /></a>
+  <a href="https://github.com/coderArtur" target="blank"><img alt="javascript" width="40" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /></a>
+  <a href="https://github.com/coderArtur" target="blank"><img alt="javascript" width="40" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a>
+  <a href="https://github.com/coderArtur" target="blank"><img alt="git" width="40" height="36" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
+</p>
+
+<h3 align="left">Status:</h3>
+<div align="auto">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=coderartur&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="coderartur" />
+
+  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=coderartur&theme=dark&show_icons=true" alt="coderartur" />
+
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderartur&theme=dark&show_icons=true&locale=en&layout=compact" alt="coderartur" />
+
+</div>
