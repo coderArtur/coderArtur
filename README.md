@@ -28,11 +28,11 @@
 </p>
 
 <h3 align="left">GitHub Status:</h3>
-<div align="auto">
+<div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=coderartur&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="coderartur" />
 
-  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=coderartur&theme=dark&show_icons=true" alt="coderartur" />
-
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderartur&theme=dark&show_icons=true&locale=en&layout=compact" alt="coderartur" />
+
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=coderartur&theme=dark&show_icons=true" alt="coderartur" />
 
 </div>
