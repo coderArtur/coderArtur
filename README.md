@@ -3,7 +3,7 @@
 <h3 align="center">I've always been fascinated by technology and because of that I decided to become a programmer. I study Front-End and I'm dedicating myself to deliver great projects. I'm very curious, I also have it easy and I like to learn new things!</h3>
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=coderartur&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+  <img src="https://komarev.com/ghpvc/?username=coderartur&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 </div>
 <h5 align="right"><strong><em>With great power&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>comes great responsibility.</em></strong></h5>
 
