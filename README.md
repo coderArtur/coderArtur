@@ -4,8 +4,9 @@
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=coderartur&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+
+  <h5><strong><em>With great power&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>comes great responsibility.</em></strong></h5>
 </div>
-<h5 align="right"><strong><em>With great power&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>comes great responsibility.</em></strong></h5>
 
 <ul>
   <li>🚀 Now I’m learning <strong>JavaScript</strong></li>
@@ -20,10 +21,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://github.com/coderArtur" target="blank"><img alt="html5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></a>
-  <a href="https://github.com/coderArtur" target="blank"><img alt="css3" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /></a>
-  <a href="https://github.com/coderArtur" target="blank"><img alt="javascript" width="40" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /></a>
-  <a href="https://github.com/coderArtur" target="blank"><img alt="javascript" width="40" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a>
+  <a href="https://github.com/coderArtur" target="blank"><img alt="Artur html5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></a>
+  <a href="https://github.com/coderArtur" target="blank"><img alt="Artur css" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /></a>
+  <a href="https://github.com/coderArtur" target="blank"><img alt="Artur javascript" width="40" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /></a>
+  <a href="https://github.com/coderArtur" target="blank"><img alt="Artur python" width="40" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a>
   <a href="https://github.com/coderArtur" target="blank"><img alt="git" width="40" height="36" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
 </p>
 
