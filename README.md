@@ -14,7 +14,7 @@
   <a href="https://github.com/coderArtur"><img width="315em" src="https://awesome-github-stats.azurewebsites.net/user-stats/coderArtur?cardType=github&theme=vue-dark&Text=EBEBEBFF&Ring=2BBD6D&Title=E1E1E1FF&Background=000000&Border=00000000" /></a>
   <!-- <img height="140em" src="https://github-readme-stats.vercel.app/api?username=coderartur&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="coderartur" /> -->
 
-  <img align="right" height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=coderartur&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=00000000&stroke=FFFFFF&ring=2BBD6D&fire=2BBD6D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2BBD6D&sideLabels=FFFFFF&dates=FFFFFF" alt="coderartur" />
+  <img align="right" height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=coderartur&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=00000000&stroke=FFFFFF&ring=2BBD6D&fire=2BBD6D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2BBD6D&sideLabels=FFFFFF&dates=FFFFFF" alt="coderartur">
 
 </div><br>
 
@@ -27,10 +27,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://github.com/coderArtur" target="blank"><img alt="Artur html5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></a>
-  <a href="https://github.com/coderArtur" target="blank"><img alt="Artur css" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /></a>
-  <a href="https://github.com/coderArtur" target="blank"><img alt="Artur javascript" width="40" height="32" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" /></a>
-  <a href="https://github.com/coderArtur" target="blank"><img alt="Artur python" width="40" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a>
-  <a href="https://github.com/coderArtur" target="blank"><img alt="git" width="40" height="36" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
+  <a href="https://github.com/coderArtur" target="blank"><img alt="Artur html5" width="40" height="33" src="https://xesque.rocketseat.dev/platform/tech/html5.svg" /></a>
+  <a href="https://github.com/coderArtur" target="blank"><img alt="Artur css" width="40" height="33" src="https://xesque.rocketseat.dev/platform/tech/css3.svg" /></a>
+  <a href="https://github.com/coderArtur" target="blank"><img alt="Artur javascript" width="40" height="33" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" /></a>
+  <a href="https://github.com/coderArtur" target="blank"><img alt="Artur python" width="40" height="33" src="https://xesque.rocketseat.dev/platform/tech/python.svg" /></a>
+  <a href="https://github.com/coderArtur" target="blank"><img alt="git" width="40" height="33" src="https://xesque.rocketseat.dev/platform/tech/git.svg" /></a>
 </p>
 
