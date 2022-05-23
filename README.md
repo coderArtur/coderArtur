@@ -18,7 +18,7 @@
 
 </div><br>
 
-<a href="https://github.com/coderArtur"><img align="right" width="400em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderArtur&langs_count=8&count_private=true&layout=default&theme=react&hide_border=true&bg_color=0D1117&title_color=E1E1E1FF" /></a>
+<a href="https://github.com/coderArtur"><img align="right" width="375em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderArtur&langs_count=8&count_private=true&layout=default&theme=react&hide_border=true&bg_color=0D1117&title_color=E1E1E1FF" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/artur-lago-57451b213" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="artur-lago-57451b213" height="30" width="40" /></a>
