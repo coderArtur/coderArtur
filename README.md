@@ -11,14 +11,14 @@
 
 <h2 align="left">GitHub Stats:</h3>
 <div align="left">
-  <img width="315em" src="https://awesome-github-stats.azurewebsites.net/user-stats/coderArtur?cardType=github&theme=vue-dark&Text=EBEBEBFF&Ring=2BBD6D&Title=E1E1E1FF&Background=000000&Border=00000000" />
+  <a href="#"><img width="315em" src="https://awesome-github-stats.azurewebsites.net/user-stats/coderArtur?cardType=github&theme=vue-dark&Text=EBEBEBFF&Ring=2BBD6D&Title=E1E1E1FF&Background=000000&Border=00000000" /></a>
   <!-- <img height="140em" src="https://github-readme-stats.vercel.app/api?username=coderartur&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="coderartur" /> -->
 
   <img align="right" height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=coderartur&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=00000000&stroke=FFFFFF&ring=2BBD6D&fire=2BBD6D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2BBD6D&sideLabels=FFFFFF&dates=FFFFFF" alt="coderartur" />
 
 </div><br>
 
-<img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderArtur&langs_count=8&count_private=true&layout=default&theme=react&hide_border=true&bg_color=0D1117&title_color=E1E1E1FF" />
+<a href="#"><img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderArtur&langs_count=8&count_private=true&layout=default&theme=react&hide_border=true&bg_color=0D1117&title_color=E1E1E1FF" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/artur-lago-57451b213" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="artur-lago-57451b213" height="30" width="40" /></a>
