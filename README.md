@@ -2,7 +2,7 @@
 <h2 font-size="20px" align="center">😎What's up? I'm Artur L.</h2>
 <div>
   <h3 align="center">I've always been fascinated by technology and because of that I decided to become a programmer. I study Front-End and I'm dedicating myself to deliver great projects. I'm very curious, I also have it easy and I like to learn new things!</h3>
-
+<hr>
 <h5 align="right"><strong><em>With great power&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>comes great responsibility.</em></strong></h5>
 </div>
  <!-- <div align="right">
@@ -21,7 +21,8 @@
 <a href="https://github.com/coderArtur"><img align="right" width="355em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderArtur&langs_count=8&count_private=true&layout=default&theme=react&hide_border=true&bg_color=0D1117&title_color=E1E1E1FF" /></a>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/artur-lago-57451b213" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="artur-lago-57451b213" height="30" width="40" /></a>
+<!-- https://linkedin.com/in/artur-lago-57451b213 -->
+<a href="https://github.com/coderArtur" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="artur-lago-57451b213" height="30" width="40" /></a>
 <a href="https://instagram.com/artur_mdl" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Insta.svg" alt="artur_mdl" height="30" width="40" /></a>
 <a href="mailto:coderartur@gmail.com" target="blank"><img align="center" src="http://vivalinkrj.com.br/assets/vendor/flag-icon-css/flags/4x3/mail.svg" alt="artur_mdl" height="33" width="40" /></a>
 
