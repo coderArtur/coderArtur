@@ -1,8 +1,7 @@
-[![MasterHead](/turtle.gif)]
+[![MasterHead](/turtle.gif)](https://github.com/coderArtur)
 <h2 font-size="20px" align="center">😎What's up? I'm Artur L.</h2>
 <div>
   <h3 align="center">I've always been fascinated by technology and because of that I decided to become a programmer. I study Front-End and I'm dedicating myself to deliver great projects. I'm very curious, I also have it easy and I like to learn new things!</h3>
-<hr>
 <h5 align="right"><strong><em>With great power&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>comes great responsibility.</em></strong></h5>
 </div>
  <!-- <div align="right">
@@ -13,9 +12,7 @@
 <div align="left">
   <a href="https://github.com/coderArtur"><img width="325em" src="https://awesome-github-stats.azurewebsites.net/user-stats/coderArtur?cardType=github&theme=vue-dark&Text=EBEBEBFF&Ring=2BBD6D&Title=E1E1E1FF&Background=000000&Border=00000000" /></a>
   <!-- <img height="140em" src="https://github-readme-stats.vercel.app/api?username=coderartur&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="coderartur" /> -->
-
   <img align="right" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=coderartur&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=00000000&stroke=FFFFFF&ring=2BBD6D&fire=2BBD6D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2BBD6D&sideLabels=FFFFFF&dates=FFFFFF" alt="coderartur">
-
 </div><br>
 
 <a href="https://github.com/coderArtur"><img align="right" width="355em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderArtur&langs_count=8&count_private=true&layout=default&theme=react&hide_border=true&bg_color=0D1117&title_color=E1E1E1FF" /></a>
