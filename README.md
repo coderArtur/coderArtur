@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/T3zqL0sp/ezgif-com-gif-maker-10.gif)](https://github.com/coderArtur)
+[![MasterHead](/turtle.gif)]
 <h2 font-size="20px" align="center">😎What's up? I'm Artur L.</h2>
 <div>
   <h3 align="center">I've always been fascinated by technology and because of that I decided to become a programmer. I study Front-End and I'm dedicating myself to deliver great projects. I'm very curious, I also have it easy and I like to learn new things!</h3>
