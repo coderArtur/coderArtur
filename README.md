@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <!-- https://linkedin.com/in/artur-lago-57451b213 -->
-<a href="https://github.com/coderArtur" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="artur-lago-57451b213" height="30" width="40" /></a>
-<a href="https://instagram.com/artur_mdl" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Insta.svg" alt="artur_mdl" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arturlago/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="artur-lago-57451b213" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/artur_mdl" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Insta.svg" alt="artur_mdl" height="30" width="40" /></a> -->
 <a href="mailto:coderartur@gmail.com" target="blank"><img align="center" src="http://vivalinkrj.com.br/assets/vendor/flag-icon-css/flags/4x3/mail.svg" alt="artur_mdl" height="33" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
