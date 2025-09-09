@@ -12,15 +12,14 @@
 <div align="left">
   <a href="https://github.com/coderArtur"><img width="325em" src="https://awesome-github-stats.azurewebsites.net/user-stats/coderArtur?cardType=github&theme=vue-dark&Text=EBEBEBFF&Ring=2BBD6D&Title=E1E1E1FF&Background=000000&Border=00000000" /></a>
   <!-- <img height="140em" src="https://github-readme-stats.vercel.app/api?username=coderartur&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="coderartur" /> -->
-  <img align="right" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=coderartur&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=00000000&stroke=FFFFFF&ring=2BBD6D&fire=2BBD6D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2BBD6D&sideLabels=FFFFFF&dates=FFFFFF" alt="coderartur">
+  <img align="right" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=coderartur?&locale=en&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=00000000&stroke=FFFFFF&ring=2BBD6D&fire=2BBD6D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2BBD6D&sideLabels=FFFFFF&dates=FFFFFF" alt="coderartur">
 </div><br>
 
-<a href="https://github.com/coderArtur"><img align="right" width="355em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderArtur&langs_count=8&count_private=true&layout=default&theme=react&hide_border=true&bg_color=0D1117&title_color=E1E1E1FF" /></a>
+<!-- <a href="https://github.com/coderArtur"><img align="right" width="355em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderArtur&langs_count=8&count_private=true&layout=default&theme=react&hide_border=true&bg_color=0D1117&title_color=E1E1E1FF" /></a> -->
 
 <h3 align="left">Connect with me:</h3>
-<!-- https://linkedin.com/in/artur-lago-57451b213 -->
 <a href="https://www.linkedin.com/in/arturlago/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="artur-lago-57451b213" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/artur_mdl" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Insta.svg" alt="artur_mdl" height="30" width="40" /></a> -->
+<!-- <a href="https://instagram.com/xxx" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Insta.svg" alt="xxx" height="30" width="40" /></a> -->
 <a href="mailto:coderartur@gmail.com" target="blank"><img align="center" src="http://vivalinkrj.com.br/assets/vendor/flag-icon-css/flags/4x3/mail.svg" alt="artur_mdl" height="33" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,6 +28,6 @@
   <a href="https://github.com/coderArtur" target="blank"><img alt="Artur css" width="40" height="33" src="https://xesque.rocketseat.dev/platform/tech/css3.svg" /></a>
   <a href="https://github.com/coderArtur" target="blank"><img alt="Artur javascript" width="40" height="33" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" /></a>
   <a href="https://github.com/coderArtur" target="blank"><img alt="Artur python" width="40" height="33" src="https://xesque.rocketseat.dev/platform/tech/python.svg" /></a>
-  <a href="https://github.com/coderArtur" target="blank"><img alt="git" width="40" height="33" src="https://xesque.rocketseat.dev/platform/tech/git.svg" /></a>
+  <a href="https://github.com/coderArtur" target="blank"><img alt="Artur git" width="40" height="33" src="https://xesque.rocketseat.dev/platform/tech/git.svg" /></a>
 </p>
 
