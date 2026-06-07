@@ -25,7 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://github.com/coderArtur" target="blank"><img alt="Artur python" width="40" height="33" src="https://xesque.rocketseat.dev/platform/tech/python.svg" /></a>
-  <a href="https://github.com/coderArtur" target="blank"><img alt="Artur databricks" width="40" height="33" src="https://www.svgrepo.com/show/330261/databricks.svg" /></a>
+  <a href="https://github.com/coderArtur" target="blank"><img alt="Artur databricks" width="40" height="33" src="https://dl.svgcdn.com/svg/simple-icons/databricks.svg" /></a>
   <a href="https://github.com/coderArtur" target="blank"><img alt="Artur aws" width="40" height="33" src="https://raw.githubusercontent.com/gui-bus/TechIcons/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/AWS.svg" /></a>
   <a href="https://github.com/coderArtur" target="blank"><img alt="Artur docker" width="40" height="33" src="https://raw.githubusercontent.com/gui-bus/TechIcons/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Light/Docker.svg" /></a>
   <a href="https://github.com/coderArtur" target="blank"><img alt="Artur sql" width="40" height="33" src="https://raw.githubusercontent.com/gui-bus/TechIcons/2f0a8949c67d9dc8dadf1c31bd7dc62fe966901f/Dark/Power%20BI.svg" /></a>
